@@ -1,0 +1,39 @@
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\NCS\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\NCS\OneDrive\Documents\Sami document\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\92317\OneDrive\Desktop\New folder (2)\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\92317\OneDrive\Desktop\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+E:\All Doc\2nd smester\oops\Gym managemnet\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+E:\All Doc\2nd smester\oops\Gym managemnet\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+E:\All Doc\2nd smester\oops\Gym managemnet\Gym\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+E:\All Doc\2nd smester\oops\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+E:\All Doc\2nd smester\oops\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+E:\All Doc\2nd smester\oops\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+E:\All Doc\2nd smester\oops\Gym managemnet\Gym\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

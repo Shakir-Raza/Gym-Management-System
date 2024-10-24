@@ -1,0 +1,8 @@
+Equipment: rod, Description: chest
+Equipment: dumbbell, Description: biceps
+
+Member: shakir, ID: 65698
+Member: muizz, ID: 65621
+
+Staff: armaghan, ID: 1
+Staff: adeen, ID: 2
